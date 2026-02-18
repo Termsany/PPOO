@@ -1,0 +1,5 @@
+# FastLoop Trader Requirements
+# Uses only Python standard library
+
+# Optional (only if using trade journal feature)
+tradejournal
